@@ -168,7 +168,7 @@ export default function RoofingPage() {
               Roofing
             </h1>
             <p className="text-stone-200 text-lg max-w-xl mb-6">
-              Complete roofing systems built for Australia \u2014 from metal sheets and concrete tiles to guttering, sarking, and skylights.
+              Complete roofing systems built for Australia — from metal sheets and concrete tiles to guttering, sarking, and skylights.
             </p>
             <div className="flex flex-wrap gap-4">
               <a href="#products" className="inline-flex items-center gap-2 px-6 py-3 bg-white text-charcoal-900 font-semibold rounded-lg hover:bg-stone-100 transition-colors text-sm group">
@@ -352,7 +352,7 @@ export default function RoofingPage() {
             <div className="space-y-4">
               {[
                 { title: 'Climate-Specific Advice', desc: 'Recommendations tailored to your postcode\'s climate zone and BAL rating' },
-                { title: 'Certified Products', desc: 'All products meet AS and NCC requirements \u2014 we\'ll confirm compliance for your application' },
+                { title: 'Certified Products', desc: 'All products meet AS and NCC requirements — we\'ll confirm compliance for your application' },
                 { title: 'Trade Pricing', desc: 'Open a trade account for exclusive pricing, credit terms, and priority stock' },
               ].map((item) => (
                 <div key={item.title} className="flex items-start gap-4">
@@ -377,7 +377,7 @@ export default function RoofingPage() {
               </div>
               <div>
                 <div className="text-white font-semibold text-sm">Talk to a Roofing Specialist</div>
-                <div className="text-charcoal-400 text-xs mt-0.5">1800 BUILD CO \u2014 Mon\u2013Fri 7am\u20135pm</div>
+                <div className="text-charcoal-400 text-xs mt-0.5">1800 BUILD CO — Mon–Fri 7am–5pm</div>
               </div>
               <ArrowRight size={15} className="text-charcoal-500 ml-auto group-hover:translate-x-0.5 transition-transform" />
             </a>
@@ -390,7 +390,7 @@ export default function RoofingPage() {
               </div>
               <div>
                 <div className="text-white font-semibold text-sm">Order a Sample Kit</div>
-                <div className="text-charcoal-400 text-xs mt-0.5">Colour samples and material swatches \u2014 free delivery</div>
+                <div className="text-charcoal-400 text-xs mt-0.5">Colour samples and material swatches — free delivery</div>
               </div>
               <ArrowRight size={15} className="text-charcoal-500 ml-auto group-hover:translate-x-0.5 transition-transform" />
             </a>
