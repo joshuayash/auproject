@@ -120,7 +120,7 @@ export const featuredProducts: Product[] = [
     description: 'The iconic Australian roofing steel with enhanced Thermatech solar reflectance technology, engineered for extreme heat and coastal conditions.',
     image: 'https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg?auto=compress&cs=tinysrgb&w=800',
     badge: 'Top Rated',
-    specs: ['30+ colour options', '0.42mm\u20130.6mm BMT', '50-year warranty'],
+    specs: ['30+ colour options', '0.42mm–0.6mm BMT', '50-year warranty'],
   },
   {
     id: 'p4',
@@ -145,28 +145,28 @@ export const featuredProducts: Product[] = [
     category: 'Insulation & Acoustics',
     description: 'Australia\'s most trusted glasswool insulation. Delivers consistent thermal performance across diverse Australian climate zones.',
     image: 'https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800',
-    specs: ['R2.5\u2013R6.0 available', 'NCC compliant', 'GreenTag certified'],
+    specs: ['R2.5–R6.0 available', 'NCC compliant', 'GreenTag certified'],
   },
 ];
 
 export const projects = [
   {
     id: 'proj1',
-    title: 'Coastal Family Home \u2014 Mornington Peninsula',
+    title: 'Coastal Family Home — Mornington Peninsula',
     type: 'Residential',
     materials: ['Spotted Gum Decking', 'Colorbond Roofing', 'Hebel Cladding'],
     image: 'https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1200',
   },
   {
     id: 'proj2',
-    title: 'Mixed-Use Development \u2014 Surry Hills',
+    title: 'Mixed-Use Development — Surry Hills',
     type: 'Commercial',
     materials: ['Structural Steel', 'Brick Select Range', 'Engineered Flooring'],
     image: 'https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg?auto=compress&cs=tinysrgb&w=1200',
   },
   {
     id: 'proj3',
-    title: 'Bushland Retreat \u2014 Blue Mountains',
+    title: 'Bushland Retreat — Blue Mountains',
     type: 'Residential',
     materials: ['Timber Cladding', 'Stone Masonry', 'Bradford Insulation'],
     image: 'https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=1200',
@@ -197,7 +197,7 @@ export const testimonials: Testimonial[] = [
     name: 'Dave Nguyen',
     role: 'Owner',
     company: 'Nguyen Constructions',
-    content: 'Reliable delivery, competitive pricing, and quality you can count on. I\'ve recommended BuildersCo to every tradesman I know. They stock everything from structural steel to decorative timber \u2014 one account, sorted.',
+    content: 'Reliable delivery, competitive pricing, and quality you can count on. I\'ve recommended BuildersCo to every tradesman I know. They stock everything from structural steel to decorative timber — one account, sorted.',
     rating: 5,
     location: 'Melbourne, VIC',
   },
